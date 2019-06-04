@@ -12,4 +12,5 @@ It is stored in a separate repository to encourage users to fork it and to let
 them easily have their own managed version of configuration.
 
 Just like Teflon itself this repository is under heavy development. Expect
-frequent and sometimes even radical changes to this. **Please don't use it in production**, but feel free to play around with it.
+frequent and sometimes even radical changes to this. **Please don't use it in
+production**, but feel free to play around with it.
